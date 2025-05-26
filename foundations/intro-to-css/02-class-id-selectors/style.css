@@ -1,0 +1,19 @@
+.p-pink {
+    background-color: #ffb6c1;
+    font-family: 'Verdana', 'DejaVu Sans', 'san-serif';
+
+}
+
+#row2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+p.cooler, div#row4 {
+    font-size: 24px;
+}
+
+#row4 {
+    font-weight: bold;
+}
+
