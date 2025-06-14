@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background: gray;
+    margin: 10px;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo {
+    font-size: 48px;
+    font-weight: 900;
+    background-color: bisque;
+    padding: 4px 32px;
+
+
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
+li {
+    list-style-type:none;
+    background-color: aquamarine;
+}
+
+a {
+    text-decoration:none;
+}
